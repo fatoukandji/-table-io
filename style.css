@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+}
+
+div, p{
+    width: 500%;
+    border: 1px solid black ;
+}
+
+div{
+    background-color: #08B;
+}
+P{
+    background-color: #0BB;
+}
